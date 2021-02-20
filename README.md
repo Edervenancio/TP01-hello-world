@@ -1,12 +1,12 @@
-#Aula 01 - Técnicas de Programação
+# Aula 01 - Técnicas de Programação
 
-##VERSIONAMENTO
+## VERSIONAMENTO
 Versão / Atualizações
 
-##PQ É IMPORTANTE ?
+## PQ É IMPORTANTE ?
 Correção de Erros e novas features
 
-##QUAIS OS MEIOS QUE EU TENHO DE FAZER ISSO
+## QUAIS OS MEIOS QUE EU TENHO DE FAZER ISSO
 Banco de Dados? One Drive? Pendrive? Pastas com nomes diferentes
 
 DEMANDA MUITA ORGANIZAÇÃO! **
